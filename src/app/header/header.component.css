@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    padding: 20px; 
+    padding-top: 15px;
+    padding-left: 30px;
+border-bottom: 1px solid rgb(227, 226, 226);
+}
+#pages{
+    cursor: pointer;
+    display: flex;
+    column-gap: 40px;
+    font-size: 25x;
+}

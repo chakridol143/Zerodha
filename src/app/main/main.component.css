@@ -1,0 +1,36 @@
+#part1{
+    padding-top: 50px;
+    font-size:larger;
+    color: #666;
+    padding-bottom: 50px;
+}
+#btn{
+    
+    padding: 10px 30px 10px 30px;
+    font-size: 22px;
+    border: white;
+    border-radius: none;
+    cursor:pointer;
+}
+#part2{
+    display: flex;
+    color: #666;
+}
+#part4{
+    display: flex;  
+    
+}
+#price{
+    width: 40%;
+}
+.pricing{
+    font-size: small;
+  display:flex;
+  
+  align-items: center;
+  justify-content: left;
+}
+#kite{
+font-size: xx-large;
+font-style: italic;
+}
